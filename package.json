@@ -121,7 +121,7 @@
   "name": "postscribe-angular",
   "repository": {
     "type": "git",
-    "url": "https://github.com/manjits1991/postscribe-angular.git"
+    "url": "https://github.com/bjornlarssonviggeby/postscribe-angular"
   },
   "scripts": {
     "build": "gulp build",
@@ -138,5 +138,5 @@
     "test:debug": "gulp test:debug",
     "test:nocoverage": "gulp test:nocoverage"
   },
-  "version": "1.0.0"
+  "version": "1.0.2"
 }
